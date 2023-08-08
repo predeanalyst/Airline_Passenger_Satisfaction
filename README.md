@@ -1,4 +1,4 @@
-# Airline_Passenger_Satisfaction
+![image](https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/26c7e281-e484-4ff0-b536-9af1761d477d)# Airline_Passenger_Satisfaction
 <img width="536" alt="image" src="https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/eda97c82-a843-4384-84cc-e7af47b5acbc">
 
 ![image](https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/1264d3be-c6b3-456b-9fa6-31b63004363f)
@@ -30,7 +30,12 @@ industry. **
 
 Module One shows that there is a high percentage ratio of returning customers compared to the first timers (82.26% – 17.74%). This may indicate satisfactory customer service.  However, our analysis indicates that improvement is still required in certain area to boost customer experience and patronage.
 According to Module two, the data shows that more customers travels for business purposes (71.25%), as compare to those who travel for personal reason (28.75%)
-![image](https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/cb6f3d5f-a29b-4f5c-9c8e-a40c04600d4e)
+Module Three shows the percentage ratio of different flight classes. The airline has a high customer based on business class passengers.
+		Economy class: 43% 
+		Economy plus: 7% 
+		Business Class: 50%
+Module Four shows different ratings based on customers satisfaction.
+
 
 
 
