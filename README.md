@@ -26,7 +26,6 @@ industry. **
 
 ![image](https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/8942e005-4d38-4bd7-941a-0e7b3c2e9b3d)
 
-![image](https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/cbba7d81-6b9c-403c-9beb-87eb86b851b9)
 
 Module One shows that there is a high percentage ratio of returning customers compared to the first timers (82.26% – 17.74%). This may indicate satisfactory customer service.  However, our analysis indicates that improvement is still required in certain area to boost customer experience and patronage.
 According to Module two, the data shows that more customers travels for business purposes (71.25%), as compare to those who travel for personal reason (28.75%)
