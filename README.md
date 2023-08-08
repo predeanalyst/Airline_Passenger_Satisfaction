@@ -26,5 +26,7 @@ industry. **
 
 ![image](https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/8942e005-4d38-4bd7-941a-0e7b3c2e9b3d)
 
+![image](https://github.com/predeanalyst/Airline_Passenger_Satisfaction/assets/93994545/cbba7d81-6b9c-403c-9beb-87eb86b851b9)
+
 
 
