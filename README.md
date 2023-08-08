@@ -33,11 +33,11 @@ industry. **
 
 ** Module One shows that there is a high percentage ratio of returning customers compared to the first timers (82.26% – 17.74%). This may indicate satisfactory customer service.  However, our analysis indicates that improvement is still required in certain area to boost customer experience and patronage.
 According to Module two, the data shows that more customers travels for business purposes (71.25%), as compare to those who travel for personal reason (28.75%)
-Module Three shows the percentage ratio of different flight classes. The airline has a high customer based on business class passengers.
+** Module Three shows the percentage ratio of different flight classes. The airline has a high customer based on business class passengers.
 		Economy class: 43% 
 		Economy plus: 7% 
 		Business Class: 50%
-Module Four shows different ratings based on customers satisfaction. **
+** Module Four shows different ratings based on customers satisfaction.
 
 
 
